@@ -514,10 +514,10 @@
                             id: "ProjetTrois",
                             "data-aos": "zoom-out",
                             children: Object(h.jsxs)(pe, {
-                              href: "https://zepolimer.github.io/Loopstudio/",
+                              href: "https://zepolimer.github.io/FAQ_React/",
                               children: [
                                 Object(h.jsx)(ue, { children: "03" }),
-                                Object(h.jsx)(me, { children: "Loopstudio" }),
+                                Object(h.jsx)(me, { children: "FAQ" }),
                               ],
                             }),
                           }),
