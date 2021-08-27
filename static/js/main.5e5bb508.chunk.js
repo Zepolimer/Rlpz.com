@@ -503,7 +503,7 @@
                             "data-aos": "zoom-out",
                             children: Object(h.jsxs)(pe, {
                               href:
-                                "https://zepolimer.github.io/Sunnyside_Agency/",
+                                "https://zepolimer.github.io/Sunnyside_React/",
                               children: [
                                 Object(h.jsx)(ue, { children: "02" }),
                                 Object(h.jsx)(me, { children: "SunnySide" }),
